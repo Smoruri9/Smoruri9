@@ -14,8 +14,8 @@ Some of the achievements I'm proud of are:
 If you want to chat with me, you can reach me at:
 
 - Email: smoruri9@gmail.com
-- Twitter: [@SteveShamrims]
-- LinkedIn: [Steve Moruri]
+- X: @SteveShamrims
+- LinkedIn: Steve Moruri
 
 <!---
 Smoruri9/Smoruri9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
